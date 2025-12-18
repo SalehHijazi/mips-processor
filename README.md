@@ -28,6 +28,7 @@ Designed and simulated a 32-bit RISC processor based on the MIPS instruction set
     vvp mips_full_sim
     gtkwave mips_cpu_test.vcd
     ```
+
 ## Verification
 **Test Case:** `10 + 20 = 30`
 * **Instruction:** `add $3, $1, $2`
